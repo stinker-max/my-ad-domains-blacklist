@@ -3,6 +3,6 @@
 ! Description: List for blocking pesky ads, trackers, and malware. Balanced version: set & forget, doesn't hamper user experience.
 ! Version: 1.0.0
 !
-||https://yandex.ru/ads/system/adsdk.js^
-||https://yandex.ru/ads/system/header-bidding.js^
-||https://yandex.ru/ads/system/context.js^
+||yandex.ru/ads/system/adsdk.js^
+||yandex.ru/ads/system/header-bidding.js^
+||yandex.ru/ads/system/context.js^
