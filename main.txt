@@ -1,0 +1,6 @@
+!
+! Title: main Hosts
+! Description: List for blocking pesky ads, trackers, and malware. Balanced version: set & forget, doesn't hamper user experience.
+! Version: 1.0.0
+!
+@@||yandex.ru/ads/*
