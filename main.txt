@@ -4,3 +4,6 @@
 ! Version: 1.0.0
 !
 @@||yandex.ru/ads/*
+||https://yandex.ru/ads/system/adsdk.js^
+||https://yandex.ru/ads/system/header-bidding.js^
+||https://yandex.ru/ads/system/context.js^
