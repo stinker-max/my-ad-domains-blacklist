@@ -6,3 +6,4 @@
 ||yandex.ru/ads/system/adsdk.js^
 ||yandex.ru/ads/system/header-bidding.js^
 ||yandex.ru/ads/system/context.js^
+||*.pikabu.ru/v2/event/j/3/ad_load^
